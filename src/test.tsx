@@ -10,7 +10,7 @@ import {
 
 Font.register({
     family: "Roboto",
-    fonts: [{ src: "http://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5WZLCzYlKw.ttf" }, { src:  "http://fonts.gstatic.com/s/robotocondensed/v25/ieVl2ZhZI2eCN5jzbjEETS9weq8-59WxDCs5cvI.ttf", fontWeight: 700 }],
+    fonts: [{ src: "http://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5WZLCzYlKw.ttf" }, { src:  "http://db.onlinewebfonts.com/t/002209bee8df7c3666a712ebd9253f60.ttf", fontWeight: 700 }],
   });
   
   Font.register({
@@ -20,7 +20,7 @@ Font.register({
   
   Font.register({
     family: "RobotBoldItalic",
-    fonts: [{ src:  "http://fonts.gstatic.com/s/robotocondensed/v25/ieVl2ZhZI2eCN5jzbjEETS9weq8-59WxDCs5cvI.ttf", fontWeight: 700 }],
+    fonts: [{ src:  "https://candyfonts.com/wp-data/2018/10/09/997/Roboto-BoldItalic.ttf", fontWeight: 700 }],
   });
 
 
